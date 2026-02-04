@@ -44,11 +44,4 @@ The website loads instantly because it uses **Vite**, a modern tool that makes R
 
 ---
 
-## 💻 How to Run This on Your Computer
 
-If you want to download this code and run it yourself, follow these 3 steps:
-
-**Step 1: Download the code**
-```bash
-git clone [https://github.com/Ashvini-27/foodiehub.git](https://github.com/Ashvini-27/foodiehub.git)
-cd foodiehub
