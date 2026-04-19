@@ -1,3 +1,4 @@
+
  🍔 FoodieHub
 
 A smart recipe app that decides what you should eat based on your mood or what ingredients you have.**
@@ -43,5 +44,7 @@ The website loads instantly because it uses **Vite**, a modern tool that makes R
 * **Framer Motion:** For smooth animations when you click buttons.
 
 ---
+
+
 
 
